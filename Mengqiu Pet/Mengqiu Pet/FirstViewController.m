@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    [NSThread sleepForTimeInterval:3.0];//延长3秒
     // Do any additional setup after loading the view, typically from a nib.
 }
 

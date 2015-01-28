@@ -418,6 +418,7 @@
 				399820651A7793910096EF23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		399820661A7793910096EF23 /* Build configuration list for PBXNativeTarget "Mengqiu PetTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				399820681A7793910096EF23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

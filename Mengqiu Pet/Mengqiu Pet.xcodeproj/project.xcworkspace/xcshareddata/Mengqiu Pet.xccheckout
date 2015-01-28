@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>81D54324-9263-4AE2-B5BC-801A2E647BAE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mengqiu Pet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE4B67695DCF1EBBC17F4493F11AF15F73BDE185</key>
+		<string>https://github.com/xianyuxmu/MQ.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mengqiu Pet/Mengqiu Pet.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE4B67695DCF1EBBC17F4493F11AF15F73BDE185</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xianyuxmu/MQ.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE4B67695DCF1EBBC17F4493F11AF15F73BDE185</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE4B67695DCF1EBBC17F4493F11AF15F73BDE185</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MQ</string>
+		</dict>
+	</array>
+</dict>
+</plist>
